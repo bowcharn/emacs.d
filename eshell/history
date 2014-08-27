@@ -1,0 +1,7 @@
+ls
+rm test.cpp 
+g++ -Wall test.cpp 
+./a.out 
+time ./a.out 
+g++ it_100_003.cpp 
+./a.out 
